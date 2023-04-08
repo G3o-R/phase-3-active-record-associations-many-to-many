@@ -319,3 +319,5 @@ kinds of complex, real-world concepts in your code!
 [ar-associations]: https://guides.rubyonrails.org/association_basics.html
 [belongs_to methods]: https://guides.rubyonrails.org/association_basics.html#methods-added-by-belongs-to
 [has_many methods]: https://guides.rubyonrails.org/association_basics.html#methods-added-by-has-many
+
+https://github.com/G3o-R/phase-3-active-record-associations-many-to-many
